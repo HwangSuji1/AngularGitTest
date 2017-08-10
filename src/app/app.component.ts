@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app world~!';
-  msg = 'branch test';
+  msg = 'branch testing gogo';
 
   getBgColor(){
     return "yellow";
